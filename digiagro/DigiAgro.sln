@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigiAgro", "DigiAgro\DigiAgro.csproj", "{2BB5AC28-C379-4016-95DE-E8A46A796159}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigiAgro.BLL", "DigiAgro.BLL\DigiAgro.BLL.csproj", "{69D649CB-2DCF-49ED-9EE0-2C9F28F765CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigiAgro.DAL", "DigiAgro.DAL\DigiAgro.DAL.csproj", "{6EC7283F-CF4C-4A40-9E9E-45B5B4FA1180}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigiAgro.BOL", "DigiAgro.BOL\DigiAgro.BOL.csproj", "{055B80CD-12AD-4BC7-B41C-B5340E0DC28B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigiAgro.Manager", "DigiAgro.Manager\DigiAgro.Manager.csproj", "{F8F8BEF4-4590-4B22-8F10-0A14198560D7}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs12
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DigiAgro\\DigiAgro.csproj
+		SccProjectName1 = DigiAgro
+		SccLocalPath1 = DigiAgro
+		SccProjectUniqueName2 = DigiAgro.BLL\\DigiAgro.BLL.csproj
+		SccProjectName2 = DigiAgro.BLL
+		SccLocalPath2 = DigiAgro.BLL
+		SccProjectUniqueName3 = DigiAgro.DAL\\DigiAgro.DAL.csproj
+		SccProjectName3 = DigiAgro.DAL
+		SccLocalPath3 = DigiAgro.DAL
+		SccProjectUniqueName4 = DigiAgro.BOL\\DigiAgro.BOL.csproj
+		SccProjectName4 = DigiAgro.BOL
+		SccLocalPath4 = DigiAgro.BOL
+		SccProjectUniqueName5 = DigiAgro.Manager\\DigiAgro.Manager.csproj
+		SccProjectName5 = DigiAgro.Manager
+		SccLocalPath5 = DigiAgro.Manager
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BB5AC28-C379-4016-95DE-E8A46A796159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BB5AC28-C379-4016-95DE-E8A46A796159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BB5AC28-C379-4016-95DE-E8A46A796159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BB5AC28-C379-4016-95DE-E8A46A796159}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69D649CB-2DCF-49ED-9EE0-2C9F28F765CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69D649CB-2DCF-49ED-9EE0-2C9F28F765CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69D649CB-2DCF-49ED-9EE0-2C9F28F765CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69D649CB-2DCF-49ED-9EE0-2C9F28F765CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EC7283F-CF4C-4A40-9E9E-45B5B4FA1180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EC7283F-CF4C-4A40-9E9E-45B5B4FA1180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EC7283F-CF4C-4A40-9E9E-45B5B4FA1180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EC7283F-CF4C-4A40-9E9E-45B5B4FA1180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{055B80CD-12AD-4BC7-B41C-B5340E0DC28B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{055B80CD-12AD-4BC7-B41C-B5340E0DC28B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{055B80CD-12AD-4BC7-B41C-B5340E0DC28B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{055B80CD-12AD-4BC7-B41C-B5340E0DC28B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8F8BEF4-4590-4B22-8F10-0A14198560D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8F8BEF4-4590-4B22-8F10-0A14198560D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8F8BEF4-4590-4B22-8F10-0A14198560D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8F8BEF4-4590-4B22-8F10-0A14198560D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

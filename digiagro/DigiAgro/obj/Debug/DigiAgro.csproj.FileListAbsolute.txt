@@ -1,0 +1,34 @@
+D:\Wateen Data\DigiAgro\DigiAgro\bin\DigiAgro.dll
+D:\Wateen Data\DigiAgro\DigiAgro\bin\DigiAgro.pdb
+D:\Wateen Data\DigiAgro\DigiAgro\obj\Debug\DigiAgro.dll
+D:\Wateen Data\DigiAgro\DigiAgro\obj\Debug\DigiAgro.pdb
+D:\New folder\digiagro\DigiAgro\bin\DigiAgro.dll.config
+D:\New folder\digiagro\DigiAgro\bin\DigiAgro.dll
+D:\New folder\digiagro\DigiAgro\bin\DigiAgro.pdb
+D:\New folder\digiagro\DigiAgro\bin\DigiAgro.BOL.dll
+D:\New folder\digiagro\DigiAgro\bin\DigiAgro.Manager.dll
+D:\New folder\digiagro\DigiAgro\bin\MySql.Data.dll
+D:\New folder\digiagro\DigiAgro\bin\DigiAgro.BLL.dll
+D:\New folder\digiagro\DigiAgro\bin\DigiAgro.DAL.dll
+D:\New folder\digiagro\DigiAgro\bin\DigiAgro.BOL.pdb
+D:\New folder\digiagro\DigiAgro\bin\DigiAgro.Manager.pdb
+D:\New folder\digiagro\DigiAgro\bin\DigiAgro.BLL.pdb
+D:\New folder\digiagro\DigiAgro\bin\DigiAgro.DAL.pdb
+D:\New folder\digiagro\DigiAgro\obj\Debug\DigiAgro.csprojResolveAssemblyReference.cache
+D:\New folder\digiagro\DigiAgro\obj\Debug\DigiAgro.dll
+D:\New folder\digiagro\DigiAgro\obj\Debug\DigiAgro.pdb
+C:\Users\Dev2\Documents\other\digiagro\DigiAgro\obj\Debug\DigiAgro.csprojResolveAssemblyReference.cache
+C:\Users\Dev2\Documents\other\digiagro\DigiAgro\obj\Debug\DigiAgro.dll
+C:\Users\Dev2\Documents\other\digiagro\DigiAgro\obj\Debug\DigiAgro.pdb
+C:\Users\Dev2\Documents\other\digiagro\DigiAgro\bin\DigiAgro.dll.config
+C:\Users\Dev2\Documents\other\digiagro\DigiAgro\bin\DigiAgro.dll
+C:\Users\Dev2\Documents\other\digiagro\DigiAgro\bin\DigiAgro.pdb
+C:\Users\Dev2\Documents\other\digiagro\DigiAgro\bin\DigiAgro.BOL.dll
+C:\Users\Dev2\Documents\other\digiagro\DigiAgro\bin\DigiAgro.Manager.dll
+C:\Users\Dev2\Documents\other\digiagro\DigiAgro\bin\MySql.Data.dll
+C:\Users\Dev2\Documents\other\digiagro\DigiAgro\bin\DigiAgro.BLL.dll
+C:\Users\Dev2\Documents\other\digiagro\DigiAgro\bin\DigiAgro.DAL.dll
+C:\Users\Dev2\Documents\other\digiagro\DigiAgro\bin\DigiAgro.BOL.pdb
+C:\Users\Dev2\Documents\other\digiagro\DigiAgro\bin\DigiAgro.Manager.pdb
+C:\Users\Dev2\Documents\other\digiagro\DigiAgro\bin\DigiAgro.BLL.pdb
+C:\Users\Dev2\Documents\other\digiagro\DigiAgro\bin\DigiAgro.DAL.pdb
